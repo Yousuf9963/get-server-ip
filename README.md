@@ -20,12 +20,19 @@ But what’s important for you, is to know that servers assign specific IP addre
 # Installation
 
 apt update && apt upgrade -y
+
 apt install git
+
 apt install python
+
 apt install python2
+
 apt install python3
+
 git clone https://github.com/Yousuf9963/get-server-ip.git
+
 cd server-ip
+
 python3 get_server-ip.py
 
 # Please Support me....
